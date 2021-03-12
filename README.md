@@ -1,1 +1,1 @@
-# appoiment_app
+# appointment_app
